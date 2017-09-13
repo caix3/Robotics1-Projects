@@ -1,10 +1,12 @@
-Team #
+Team #: 11
 
 
-Team Member: 
+Team Member: Xinyi "Sean" Cai, Heather Barscz, Hayden Molinari
 
 
-Email:
+Email: caix3@rpi.edu
+       molinh@rpi.edu
+       barsch@rpi.edu
 
 
 Project: 
